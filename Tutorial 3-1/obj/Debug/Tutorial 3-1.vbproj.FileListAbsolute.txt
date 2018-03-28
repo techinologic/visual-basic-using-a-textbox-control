@@ -1,0 +1,44 @@
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.exe.config
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.exe
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.pdb
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.xml
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial_3_1.Tutorial3_1.resources
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial_3_1.Resources.resources
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.vbproj.GenerateResource.Cache
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.exe
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.xml
+C:\Users\pinocencion00\Documents\Visual Studio 2012\Projects\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.pdb
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.exe.config
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.exe
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.xml
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.pdb
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.exe
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.pdb
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.xml
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial_3_1.Tutorial3_1.resources
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial_3_1.Resources.resources
+E:\COSC369\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.vbproj.GenerateResource.Cache
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.exe.config
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.exe
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.pdb
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.xml
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.vbprojResolveAssemblyReference.cache
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial_3_1.Tutorial3_1.resources
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial_3_1.Resources.resources
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.vbproj.GenerateResource.cache
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.vbproj.CoreCompileInputs.cache
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.exe
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.xml
+E:\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.pdb
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.exe.config
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.exe
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.pdb
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\bin\Debug\Tutorial 3-1.xml
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.vbprojResolveAssemblyReference.cache
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial_3_1.Tutorial3_1.resources
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial_3_1.Resources.resources
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.vbproj.GenerateResource.cache
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.vbproj.CoreCompileInputs.cache
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.exe
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.xml
+D:\Academics\Fall 2017\COSC339\Tutorial 3-1\Tutorial 3-1\obj\Debug\Tutorial 3-1.pdb
